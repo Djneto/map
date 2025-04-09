@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "name": "New York City",
+        "population": 8336817,
+        "country": "USA",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060, 40.7128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "name": "Los Angeles",
+        "population": 3898747,
+        "country": "USA",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2437, 34.0522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "name": "London",
+        "population": 8982000,
+        "country": "UK",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1278, 51.5074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "name": "Paris",
+        "population": 2161000,
+        "country": "France",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522, 48.8566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5",
+        "name": "Tokyo",
+        "population": 37393129,
+        "country": "Japan",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6503, 35.6762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "name": "Sydney",
+        "population": 5367206,
+        "country": "Australia",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.2093, -33.8688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "name": "Rio de Janeiro",
+        "population": 6747815,
+        "country": "Brazil",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.1729, -22.9068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8",
+        "name": "Moscow",
+        "population": 12506468,
+        "country": "Russia",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6173, 55.7558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9",
+        "name": "Shanghai",
+        "population": 24870895,
+        "country": "China",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4737, 31.2304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "name": "Nairobi",
+        "population": 4397073,
+        "country": "Kenya",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8219, -1.2921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "name": "Dubai",
+        "population": 3331420,
+        "country": "UAE",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.2708, 25.2048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12",
+        "name": "Singapore",
+        "population": 5685807,
+        "country": "Singapore",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8198, 1.3521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "name": "Cairo",
+        "population": 21323000,
+        "country": "Egypt",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2357, 30.0444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "14",
+        "name": "Mumbai",
+        "population": 20667000,
+        "country": "India",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "name": "São Paulo",
+        "population": 12325232,
+        "country": "Brazil",
+        "category": "major_city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.6333, -23.5505]
+      }
+    }
+  ]
+} 

@@ -1,4 +1,4 @@
-import { Feature, Point as GeoPoint } from '@turf/turf';
+import { Feature, Point as GeoPoint } from 'geojson';
 
 export interface Point {
   id: string;
@@ -23,7 +23,7 @@ export class KDTree {
 
   static fromGeoJSON(features: Feature<GeoPoint>[]): KDTree {
     const points: Point[] = features.map((feature, index) => ({
-      id: feature.id?.toString() || index.toString(),
+      id: feature.properties?.id?.toString() || index.toString(),
       coordinates: [
         feature.geometry.coordinates[1], // latitude
         feature.geometry.coordinates[0], // longitude
