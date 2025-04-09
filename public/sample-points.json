@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "coordinates": [40.7128, -74.0060],
+    "properties": {
+      "name": "New York City"
+    }
+  },
+  {
+    "id": "2",
+    "coordinates": [34.0522, -118.2437],
+    "properties": {
+      "name": "Los Angeles"
+    }
+  },
+  {
+    "id": "3",
+    "coordinates": [51.5074, -0.1278],
+    "properties": {
+      "name": "London"
+    }
+  },
+  {
+    "id": "4",
+    "coordinates": [48.8566, 2.3522],
+    "properties": {
+      "name": "Paris"
+    }
+  },
+  {
+    "id": "5",
+    "coordinates": [35.6762, 139.6503],
+    "properties": {
+      "name": "Tokyo"
+    }
+  },
+  {
+    "id": "6",
+    "coordinates": [-33.8688, 151.2093],
+    "properties": {
+      "name": "Sydney"
+    }
+  },
+  {
+    "id": "7",
+    "coordinates": [-22.9068, -43.1729],
+    "properties": {
+      "name": "Rio de Janeiro"
+    }
+  },
+  {
+    "id": "8",
+    "coordinates": [55.7558, 37.6173],
+    "properties": {
+      "name": "Moscow"
+    }
+  },
+  {
+    "id": "9",
+    "coordinates": [31.2304, 121.4737],
+    "properties": {
+      "name": "Shanghai"
+    }
+  },
+  {
+    "id": "10",
+    "coordinates": [-1.2921, 36.8219],
+    "properties": {
+      "name": "Nairobi"
+    }
+  }
+] 
